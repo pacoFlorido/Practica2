@@ -6,4 +6,6 @@
     <string name="apellidos">Apellidos</string>
     <string name="tel_fono">Teléfono</string>
     <string name="notas">Notas</string>
+    <string name="agenda">Agenda</string>
+    <string name="receta">Receta</string>
 </resources>

@@ -44,7 +44,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:background="#DFEA73"
+        android:background="@color/campo_notas"
         android:ems="10"
         android:gravity="start|top"
         android:hint="@string/notas"
@@ -56,14 +56,14 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/btAceptarAge"
+            android:id="@+id/btAceptarAgenda"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@android:string/ok" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/btCancelAgenda"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
