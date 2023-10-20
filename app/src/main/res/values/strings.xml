@@ -8,4 +8,6 @@
     <string name="notas">Notas</string>
     <string name="agenda">Agenda</string>
     <string name="receta">Receta</string>
+    <string name="msj_aceptar_sin_con_nombre_apellidos_vacio">Es necesario introducir el Nombre y el Apellido</string>
+    <string name="nombre_completo_agenda">%1$s %2$s</string>
 </resources>
