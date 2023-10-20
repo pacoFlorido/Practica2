@@ -7,7 +7,7 @@ import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
 
-class Agenda : AppCompatActivity() {
+class AgendaActivity : AppCompatActivity() {
     private lateinit var etNombreContact: EditText
     private lateinit var etApellidos: EditText
     private lateinit var tvNuevoContacto: TextView
