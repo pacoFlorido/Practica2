@@ -18,7 +18,7 @@ class RecetaActivity : AppCompatActivity() {
         tvContenidoIngredientes = findViewById(R.id.tvContenidoIngredientes)
         tvContenidoReceta = findViewById(R.id.tvContenidoReceta)
 
-        //Enviando datos
+        //Enviando datos a MostrarDatosActivity
         tvContenidoDescripcion.setOnClickListener {
             llamaActivytyMostrarDatos(
                 "Descripción Receta",
