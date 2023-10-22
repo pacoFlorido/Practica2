@@ -10,4 +10,11 @@
     <string name="receta">Receta</string>
     <string name="msj_aceptar_sin_con_nombre_apellidos_vacio">Es necesario introducir el Nombre y el Apellido</string>
     <string name="nombre_completo_agenda">%1$s %2$s</string>
+    <string name="receta_titulo">Receta</string>
+    <string name="lorem_Ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="ingredientes_titulo">Ingredientes</string>
+    <string name="mini_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="descripci_n_titulo">Descripción</string>
+    <string name="nombre_receta">Tortitas americanas</string>
+    <string name="autor_receta">Paco Florido Quesada</string>
 </resources>
