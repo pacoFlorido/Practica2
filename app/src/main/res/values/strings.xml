@@ -17,4 +17,5 @@
     <string name="descripci_n_titulo">Descripción</string>
     <string name="nombre_receta">Tortitas americanas</string>
     <string name="autor_receta">Paco Florido Quesada</string>
+    <string name="imag_n_tortitas_americanas">Imagén_tortitas_americanas</string>
 </resources>

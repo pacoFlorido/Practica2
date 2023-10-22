@@ -16,7 +16,8 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/tortitas" />
+        app:srcCompat="@drawable/tortitas"
+        android:contentDescription="@string/imag_n_tortitas_americanas" />
 
     <TextView
         android:id="@+id/tvAutor"
