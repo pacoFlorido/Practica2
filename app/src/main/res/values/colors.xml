@@ -4,4 +4,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="campo_notas">#DFEA73</color>
     <color name="color_estrellas_puntuacion">#FFEB3B</color>
+    <color name="marron_oscuro">#49260F</color>
+    <color name="marron_muy_clarito">#F4C093</color>
+    <color name="negro">#000000</color>
 </resources>

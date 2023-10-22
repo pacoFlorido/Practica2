@@ -16,11 +16,8 @@ class MainActivity : AppCompatActivity() {
         btAgenda = findViewById(R.id.btAgenda)
         btReceta = findViewById(R.id.btReceta)
 
-        btAgenda.setOnClickListener{abrirAgenda()}
-    }
-
-    fun abrirAgenda() {
-        val intentAgenda = Intent(this, AgendaActivity::class.java)
-        startActivity(intentAgenda)
+        //Abriendo Activitys
+        btReceta.setOnClickListener{startActivity(Intent(this, RecetaActivity::class.java))}
+        btAgenda.setOnClickListener{startActivity(Intent(this, AgendaActivity::class.java))}
     }
 }
